@@ -1,5 +1,5 @@
 # Portfolio for Pogramming
-This portfolio will mainly be in C# programming language
+This portfolio will mainly be in C# programming language.
 
 ### Midterm project for Intro to Programming
 
